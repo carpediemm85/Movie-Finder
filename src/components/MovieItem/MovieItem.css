@@ -2,6 +2,9 @@
     padding: 20px;
     background-color: #e3dbff;
     display: flex;
+    margin: 10px;
+    background: none;
+    box-shadow: 6px 8px 16px 5px rgb(0 0 0 / 150%);
 }
 
 .movie-item__poster {

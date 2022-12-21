@@ -1,3 +1,5 @@
+*{color:white}
+body{background-color: rgb(20,18,19);}
 .main-page__content {
     padding: 42px calc(50% - 500px);
     display: flex;
