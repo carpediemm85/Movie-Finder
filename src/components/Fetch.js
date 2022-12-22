@@ -1,5 +1,5 @@
 export function GetListMovies(nameMovies) {
-    return fetch(`http://www.omdbapi.com/?apikey=ce6c89d6&s=${nameMovies}`)
+    return fetch(`http://www.omdbapi.com/?apikey=[yourApiKey]&s=${nameMovies}`)
          .then(response => response.json())
          
  }
